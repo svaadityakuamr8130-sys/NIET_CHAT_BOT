@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@toon-format/cli": "^2.1.0",
+    "child_process": "^1.0.2",
     "dotenv": "^17.2.3",
     "express": "^5.2.1",
     "node": "^20.19.6",
@@ -22,6 +24,5 @@
   "bugs": {
     "url": "https://github.com/svaadityakuamr8130-sys/NIET_CHATBOT/issues"
   },
-  "homepage": "https://github.com/svaadityakuamr8130-sys/NIET_CHATBOT#readme",
-  "devDependencies": {}
+  "homepage": "https://github.com/svaadityakuamr8130-sys/NIET_CHATBOT#readme"
 }
