@@ -3,8 +3,11 @@ const chatBot_Controller={
     getData:(req,res)=>{
         res.status(200).json({msg:"chatbot"});
     },
-    encodeData:(req,res)=>{
-        console.log(encode());
+    input_msg:(req,res)=>{
+        const {input}=req.body;
+        res.status(200).json({msg:input});
+
+
     }
 }
 

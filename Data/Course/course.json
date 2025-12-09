@@ -1,5 +1,0 @@
-[
-  { "company": "TCS", "highestPackage": 7, "averagePackage": 3.6 },
-  { "company": "Wipro", "highestPackage": 5, "averagePackage": 3.2 },
-  { "company": "Infosys", "highestPackage": 6, "averagePackage": 3.4 }
-]
